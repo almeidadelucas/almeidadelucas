@@ -4,7 +4,7 @@
 Tenho 19 anos e trabalho na área de desenvolvimento desde 2019. Sou desenvolvedor fullstack, porém gosto mais do desenvolvimento backend.
 
 ### Contatos
-Email: almeidadelucas@gmail.com
+Email: almeidadelucas@gmail.com <br />
 LinkedIn: https://www.linkedin.com/in/lucas-de-almeida-1baa21170/
 
 ### Trabalho atual
