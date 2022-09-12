@@ -1,7 +1,7 @@
 # Lucas de Almeida
 
 ### Olá, Pessoal 👋
-Tenho 20 anos e trabalho na área de desenvolvimento desde 2019. Sou desenvolvedor fullstack com foco em React e Node.
+Tenho 21 anos e trabalho na área de desenvolvimento desde 2019. Sou desenvolvedor fullstack com foco em React e Node.
 
 ### Contatos
 Email: almeidadelucas@gmail.com <br />
